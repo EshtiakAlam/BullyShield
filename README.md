@@ -19,7 +19,7 @@ BullyShield is designed to detect and counteract online bullying in real-time te
 
 ## Contributors
 
-- [Eshtiak Alam Shihab]
-- [Kazi Israrul Karim]
-- [Shamsur Shafi Nur E Aziz]
+- Eshtiak Alam Shihab
+- Kazi Israrul Karim
+- Shamsur Shafi Nur E Aziz
 
